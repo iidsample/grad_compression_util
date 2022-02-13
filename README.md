@@ -20,15 +20,10 @@ Running code without the AMI:
 + Then the user can launch run_ddp.sh manually on each node with appropriate parameters
 
 
-Data available at: [here](https://drive.google.com/drive/folders/1Rbi0tnvsQrsHvT_353pMdIbRwDlLhfwM).
-
-Some additional datasets available at: [here](https://course.fast.ai/datasets).
+Sogou Dataset available at: [here](https://drive.google.com/drive/folders/1Rbi0tnvsQrsHvT_353pMdIbRwDlLhfwM).
 
 Models available at: 
 
 [BERT-Base, Uncased](https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip)
 
 [BERT-Base, Chinese](https://storage.googleapis.com/bert_models/2018_11_03/chinese_L-12_H-768_A-12.zip)
-
-+ Next create an AMI using the instructions provided [here](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html) 
-+ Also create a new IAM role which will provide your EC2 instances permission to
